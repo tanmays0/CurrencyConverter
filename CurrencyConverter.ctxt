@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CurrencyConverter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner\ type
+comment2.target=java.lang.String\ selectCurrency(java.util.Scanner,\ java.lang.String)
+comment3.params=baseCurrency
+comment3.target=java.util.Map\ fetchExchangeRates(java.lang.String)
+comment4.params=jsonResponse
+comment4.target=java.util.Map\ parseExchangeRates(java.lang.String)
+comment5.params=scanner\ type\ availableCurrencies
+comment5.target=java.lang.String\ selectCurrency(java.util.Scanner,\ java.lang.String,\ java.lang.Iterable)
+comment6.params=scanner
+comment6.target=double\ getAmount(java.util.Scanner)
+comment7.params=amount\ baseCurrency\ targetCurrency\ exchangeRates
+comment7.target=double\ convertCurrency(double,\ java.lang.String,\ java.lang.String,\ java.util.Map)
+numComments=8
